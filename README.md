@@ -1,9 +1,9 @@
 <h1 align="center"><code><a href="https://en.wikipedia.org/wiki/%22Hello,_World!%22_program">Hello World!</a></code></h1>
-<h2 align="center">I'm Noah</h2>
+<h1 align="center">I'm Noah</h1>
 
 ---
 
-<p align="center">I'm a Dutch Canadian student currently studying computer science in the Netherlands</p>
+<h2 align="center">I'm a Dutch Canadian student currently studying computer science in the Netherlands</h2>
 
 ---
 
