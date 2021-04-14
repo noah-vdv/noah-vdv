@@ -15,8 +15,23 @@ You can find me on
   [![instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
   [![linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
   [![steam](https://img.shields.io/badge/yonolo-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yonolo/)
-
 <!--socials-->
+
+---
+
+<!--projects-->
+These days you can find me working on (--> [Live site](http://almanac.httparchive.org/) <--)
+
+[![HTTP Archive](https://github-readme-stats.vercel.app/api/pin/?username=httparchive&show_owner=true&repo=almanac.httparchive.org&theme=material-palenight&hide_border=true)](https://github.com/HTTPArchive/almanac.httparchive.org)
+
+I've also helped translate (--> [Live site](https://sass-guidelin.es/) <--)
+
+[![Sass Guidelines](https://github-readme-stats.vercel.app/api/pin/?username=KittyGiraudel&show_owner=true&repo=sass-guidelines&theme=material-palenight&hide_border=true)](https://github.com/KittyGiraudel/sass-guidelines)
+
+and
+
+[![Web-Dev-For-Beginners](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&show_owner=true&repo=web-dev-for-beginners&theme=material-palenight&hide_border=true)](https://github.com/microsoft/Web-Dev-For-Beginners)
+<!--projects-->
 
 ---
 
