@@ -8,7 +8,7 @@
 ---
 
 <!--socials-->
-You can find me on
+### You can find me on
 
   [![github](https://img.shields.io/badge/noah_vdv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-vdv)
   [![twitter](https://img.shields.io/badge/@noah_aaron_vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
@@ -20,15 +20,15 @@ You can find me on
 ---
 
 <!--projects-->
-These days you can find me working on (--> [Live site](http://almanac.httparchive.org/) <--)
+### These days you can find me working on (--> [Live site](http://almanac.httparchive.org/) <--)
 
 [![HTTP Archive](https://github-readme-stats.vercel.app/api/pin/?username=httparchive&show_owner=true&repo=almanac.httparchive.org&theme=material-palenight&hide_border=true)](https://github.com/HTTPArchive/almanac.httparchive.org)
 
-I've also helped translate (--> [Live site](https://sass-guidelin.es/) <--)
+### I've also helped translate (--> [Live site](https://sass-guidelin.es/) <--)
 
 [![Sass Guidelines](https://github-readme-stats.vercel.app/api/pin/?username=KittyGiraudel&show_owner=true&repo=sass-guidelines&theme=material-palenight&hide_border=true)](https://github.com/KittyGiraudel/sass-guidelines)
 
-and
+### and
 
 [![Web-Dev-For-Beginners](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&show_owner=true&repo=web-dev-for-beginners&theme=material-palenight&hide_border=true)](https://github.com/microsoft/Web-Dev-For-Beginners)
 <!--projects-->
@@ -36,7 +36,7 @@ and
 ---
 
 <!--technologies-->
-Some of the 'technologies' that I know
+### Some of the 'technologies' that I know
 
   [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
   [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -55,7 +55,7 @@ Some of the 'technologies' that I know
 ---
 
 <!--still learning-->
-Currently learning these 'technologies'
+### Currently learning these 'technologies'
 
   [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
