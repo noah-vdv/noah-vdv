@@ -11,7 +11,7 @@
 ### You can find me on
 
   [![github](https://img.shields.io/badge/noah_vdv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-vdv)
-  [![twitter](https://img.shields.io/badge/@noah_aaron_vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
+  [![twitter](https://img.shields.io/badge/noah_aaron_vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
   [![instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
   [![linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
   [![steam](https://img.shields.io/badge/yonolo-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yonolo/)
@@ -42,7 +42,7 @@
   
   [![devchallenges](https://img.shields.io/badge/devchallenges-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DRzP6dD8a3)
   
-  [![kalle-discord](https://img.shields.io/badge/Kalleteck-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kalle)
+  [![kalle-discord](https://img.shields.io/badge/Kalletech-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kalle)
 
   [![kevin-powell](https://img.shields.io/badge/Kevin_Powell-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8A4u4gkg2p)
 <!--server recommendations-->
@@ -50,7 +50,7 @@
 ---
 
 <!--technologies-->
-### Some of the 'technologies' that I know:
+### Some of the _technologies_ that I know:
 
   [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
   [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -65,7 +65,7 @@
 ---
 
 <!--learning-->
-### Currently learning these 'technologies':
+### Currently learning these _technologies_:
 
   [![scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
   [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
