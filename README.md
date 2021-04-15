@@ -20,11 +20,11 @@
 ---
 
 <!--projects-->
-### These days you can find me working on (--> [Live site](http://almanac.httparchive.org/) <--)
+### These days you can find me working on the Dutch translation of the [Web Almanac](http://almanac.httparchive.org/)
 
 [![HTTP Archive](https://github-readme-stats.vercel.app/api/pin/?username=httparchive&show_owner=true&repo=almanac.httparchive.org&theme=material-palenight&hide_border=true)](https://github.com/HTTPArchive/almanac.httparchive.org)
 
-### I've also helped translate (--> [Live site](https://sass-guidelin.es/) <--)
+### I've also helped translate the [Sass Guidelines](https://sass-guidelin.es/) in Dutch
 
 [![Sass Guidelines](https://github-readme-stats.vercel.app/api/pin/?username=KittyGiraudel&show_owner=true&repo=sass-guidelines&theme=material-palenight&hide_border=true)](https://github.com/KittyGiraudel/sass-guidelines)
 
@@ -36,34 +36,39 @@
 ---
 
 <!--technologies-->
-### Some of the 'technologies' that I know
+### Some of the 'technologies' that I know:
 
   [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
   [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![scss](https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass3&logoColor=white)](https://sass-lang.com/)
-  [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
   [![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
   [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
   [![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
   [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
   [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-  [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
   [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
-
 <!--technologies-->
 
 ---
 
-<!--still learning-->
-### Currently learning these 'technologies'
+<!--learning-->
+### Currently learning these 'technologies':
+
+  [![scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+  [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+  [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+<!--learning-->
+---
+
+<!--next-->
+### Next up on the list:
 
   [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](python.org)
+  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+  [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
-<!--still learning-->
+<!--next-->
 
 ---
 
