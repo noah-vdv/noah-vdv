@@ -15,6 +15,7 @@
   [![instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
   [![linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
   [![steam](https://img.shields.io/badge/yonolo-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yonolo/)
+  [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nonothepropro)
 <!--socials-->
 
 ---
@@ -32,6 +33,19 @@
 
 [![Web-Dev-For-Beginners](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&show_owner=true&repo=web-dev-for-beginners&theme=material-palenight&hide_border=true)](https://github.com/microsoft/Web-Dev-For-Beginners)
 <!--projects-->
+---
+
+<!--server recommendations-->
+### Checkout these **_great_** servers on [slack](https://slack.com/) and/or [discord](https://discord.com)
+
+  [![FEM](https://img.shields.io/badge/Frontend_mentors-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.frontendmentor.io/)
+  
+  [![devchallenges](https://img.shields.io/badge/devchallenges-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DRzP6dD8a3)
+  
+  [![kalle-discord](https://img.shields.io/badge/Kalleteck-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kalle)
+
+  [![kevin-powell](https://img.shields.io/badge/Kevin_Powell-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8A4u4gkg2p)
+<!--server recommendations-->
 
 ---
 
@@ -74,5 +88,6 @@
 
 <!--stat cards-->
 [![profile-stats](https://github-readme-stats.vercel.app/api?username=noah-vdv&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true)](https://github.com/noah-vdv)
+
 [![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=noahvdv)](https://wakatime.com/@noahvdv)
 <!--stat cards-->
