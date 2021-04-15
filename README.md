@@ -10,7 +10,7 @@
 <!--socials-->
 ### You can find me on
 
-  [![github](https://img.shields.io/badge/noah_vdv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-vdv)
+  [![github](https://img.shields.io/badge/noah--vdv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-vdv)
   [![twitter](https://img.shields.io/badge/noah_aaron_vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
   [![instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
   [![linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
