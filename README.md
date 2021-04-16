@@ -89,5 +89,5 @@
 <!--stat cards-->
 [![profile-stats](https://github-readme-stats.vercel.app/api?username=noah-vdv&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true)](https://github.com/noah-vdv)
 
-[![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=noahvdv)](https://wakatime.com/@noahvdv)
+[![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=noahvdv&layout=compact)](https://wakatime.com/@noahvdv)
 <!--stat cards-->
