@@ -38,7 +38,7 @@
 <!--server recommendations-->
 ### Checkout these **_great_** servers on [slack](https://slack.com/) and/or [discord](https://discord.com)
 
-  [![FEM](https://img.shields.io/badge/Frontend_mentors-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.frontendmentor.io/)
+  [![frontend-mentors](https://img.shields.io/badge/Frontend_mentors-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.frontendmentor.io/)
   
   [![devchallenges](https://img.shields.io/badge/devchallenges-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DRzP6dD8a3)
   
@@ -79,8 +79,8 @@
   [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
   [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](python.org)
-  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-  [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+  [![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 <!--next-->
 
@@ -89,5 +89,7 @@
 <!--stat cards-->
 [![profile-stats](https://github-readme-stats.vercel.app/api?username=noah-vdv&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true)](https://github.com/noah-vdv)
 
-[![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=noahvdv&layout=compact)](https://wakatime.com/@noahvdv)
+[![wakatime-stats](https://github-readme-stats.vercel.app/api/wakatime?username=noahvdv&layout=compact&theme=material-palenight&hide_border=true)](https://wakatime.com/@noahvdv)
+
+<!-- [![top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-vdv)](https://github.com/noah-vdv) -->
 <!--stat cards-->
