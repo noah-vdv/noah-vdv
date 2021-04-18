@@ -33,6 +33,7 @@
 
 [![Web-Dev-For-Beginners](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&show_owner=true&repo=web-dev-for-beginners&theme=material-palenight&hide_border=true)](https://github.com/microsoft/Web-Dev-For-Beginners)
 <!--projects-->
+
 ---
 
 <!--server recommendations-->
@@ -71,6 +72,7 @@
   [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
   [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <!--learning-->
+
 ---
 
 <!--next-->
