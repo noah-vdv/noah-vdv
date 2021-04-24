@@ -3,19 +3,19 @@
 
 ---
 
-<h2 align="center">I'm a Dutch Canadian student currently studying computer science in the Netherlands</h2>
+<h2 align="center">I'm a Dutch Canadian student currently studying computer science in The Netherlands</h2>
 
 ---
 
 <!--socials-->
 ### You can find me on
 
-  [![github](https://img.shields.io/badge/noah--vdv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-vdv)
-  [![twitter](https://img.shields.io/badge/noah_aaron_vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
-  [![instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
-  [![linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
-  [![steam](https://img.shields.io/badge/yonolo-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yonolo/)
-  [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nonothepropro)
+  [![Github](https://img.shields.io/badge/noah--vdv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-vdv)
+  [![Twitter](https://img.shields.io/badge/noah_aaron_vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
+  [![Instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
+  [![Linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
+  [![Steam](https://img.shields.io/badge/yonolo-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yonolo/)
+  [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nonothepropro)
 <!--socials-->
 
 ---
@@ -39,13 +39,13 @@
 <!--server recommendations-->
 ### Checkout these **_great_** servers on [slack](https://slack.com/) and/or [discord](https://discord.com)
 
-  [![frontend-mentors](https://img.shields.io/badge/Frontend_mentors-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.frontendmentor.io/)
+  [![Frontend-Mentors](https://img.shields.io/badge/Frontend_mentors-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.frontendmentor.io/)
   
-  [![devchallenges](https://img.shields.io/badge/devchallenges-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DRzP6dD8a3)
+  [![Devchallenges](https://img.shields.io/badge/devchallenges-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DRzP6dD8a3)
   
-  [![kalle-discord](https://img.shields.io/badge/Kalletech-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kalle)
+  [![Kalle-discord](https://img.shields.io/badge/Kalletech-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kalle)
 
-  [![kevin-powell](https://img.shields.io/badge/Kevin_Powell-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8A4u4gkg2p)
+  [![Kevin-Powell](https://img.shields.io/badge/Kevin_Powell-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8A4u4gkg2p)
 <!--server recommendations-->
 
 ---
@@ -53,14 +53,14 @@
 <!--technologies-->
 ### Some of the _technologies_ that I know:
 
-  [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
-  [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-  [![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-  [![github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-  [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-  [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-  [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+  [![Github](https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+  [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+  [![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 <!--technologies-->
 
 ---
@@ -68,9 +68,9 @@
 <!--learning-->
 ### Currently learning these _technologies_:
 
-  [![scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-  [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-  [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+  [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+  [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <!--learning-->
 
 ---
@@ -78,12 +78,13 @@
 <!--next-->
 ### Next up on the list:
 
-  [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-  [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](python.org)
-  [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-  [![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+  [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](python.org)
+  [![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+  [![Tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+  [![Vim](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=Vim&logoColor=white)](https://www.vim.org/)
 <!--next-->
 
 ---
