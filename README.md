@@ -15,7 +15,7 @@
   [![Instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
   [![Linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
   [![Steam](https://img.shields.io/badge/yonolo-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yonolo/)
-  [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/noah-vdv)
+  [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/noah-vdv)
 <!--socials-->
 
 ---
