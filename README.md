@@ -7,10 +7,9 @@
 ### You can find me on
 
   [![Github](https://img.shields.io/badge/noah--vdv-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noah-vdv)
-  [![Twitter](https://img.shields.io/badge/noah_aaron_vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
-  [![Instagram](https://img.shields.io/badge/noah_aaron_vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
+  [![Twitter](https://img.shields.io/badge/noah__aaron__vdv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noah_aaron_vdv)
+  [![Instagram](https://img.shields.io/badge/noah__aaron__vdv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noah_aaron_vdv)
   [![Linkedin](https://img.shields.io/badge/Noah_van_der_Veer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-van-der-veer-15468719b/)
-  [![Steam](https://img.shields.io/badge/yonolo-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yonolo/)
   [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/noah-vdv)
 <!--socials-->
 
@@ -29,20 +28,6 @@
 
 [![Web-Dev-For-Beginners](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&show_owner=true&repo=web-dev-for-beginners&theme=material-palenight&hide_border=true)](https://github.com/microsoft/Web-Dev-For-Beginners)
 <!--projects-->
-
----
-
-<!--server recommendations-->
-### Checkout these **_great_** servers on [slack](https://slack.com/) and/or [discord](https://discord.com)
-
-  [![Frontend-Mentors](https://img.shields.io/badge/Frontend_mentors-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://www.frontendmentor.io/)
-  
-  [![Devchallenges](https://img.shields.io/badge/devchallenges-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DRzP6dD8a3)
-  
-  [![Kalle-discord](https://img.shields.io/badge/Kalletech-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kalle)
-
-  [![Kevin-Powell](https://img.shields.io/badge/Kevin_Powell-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8A4u4gkg2p)
-<!--server recommendations-->
 
 ---
 
