@@ -16,15 +16,15 @@
 ---
 
 <!--projects-->
-### These days you can find me working on the Dutch translation of the [Web Almanac](http://almanac.httparchive.org/)
+### These days you can find me working on the [Dutch](https://almanac.httparchive.org/nl/2020/) translation of the [Web Almanac](http://almanac.httparchive.org/)
 
 [![HTTP Archive](https://github-readme-stats.vercel.app/api/pin/?username=httparchive&show_owner=true&repo=almanac.httparchive.org&theme=material-palenight&hide_border=true)](https://github.com/HTTPArchive/almanac.httparchive.org)
 
-### I've also helped translate the [Sass Guidelines](https://sass-guidelin.es/) in Dutch
+### I've also helped translate the [Sass Guidelines](https://sass-guidelin.es/) in [Dutch](https://sass-guidelin.es/nl/)
 
 [![Sass Guidelines](https://github-readme-stats.vercel.app/api/pin/?username=KittyGiraudel&show_owner=true&repo=sass-guidelines&theme=material-palenight&hide_border=true)](https://github.com/KittyGiraudel/sass-guidelines)
 
-### and
+### aswell as this great beginner-friendly tutorial
 
 [![Web-Dev-For-Beginners](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&show_owner=true&repo=web-dev-for-beginners&theme=material-palenight&hide_border=true)](https://github.com/microsoft/Web-Dev-For-Beginners)
 <!--projects-->
